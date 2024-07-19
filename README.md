@@ -4,6 +4,6 @@
 </p>
 
 <p align="center">
-  <img src="/metrics.plugin.languages.recent.svg" alt="Language" width="45%">
   <img src="/metrics.plugin.achievements.compact.svg" alt="Achievements" width="45%">
+  <img src="/metrics.plugin.languages.recent.svg" alt="Language" width="45%">
 </p>

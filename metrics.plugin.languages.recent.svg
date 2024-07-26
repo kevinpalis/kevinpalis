@@ -16,15 +16,15 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 133kb of code in 293 edited files across 71 commits over last 13 days</small>
+                <small>estimation from 276kb of code in 583 edited files across 96 commits over last 10 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="456.36684985225486" height="8" fill="#42f1f4"/>
-                    <rect mask="url(#languages-bar)" x="456.36684985225486" y="0" width="1.83563005716495" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="458.20247990941976" y="0" width="1.7975200905802102" height="8" fill="#c22d40"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="456.244951549143" height="8" fill="#42f1f4"/>
+                    <rect mask="url(#languages-bar)" x="456.244951549143" y="0" width="1.897218535485436" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="458.14217008462845" y="0" width="1.8578299153715518" height="8" fill="#c22d40"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -36,8 +36,8 @@
                                 WDL
                             </div>
                             <small>
-                                <div>71.8 kB</div>
-                                <div>99.21%</div>
+                                <div>139 kB</div>
+                                <div>99.18%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -48,8 +48,8 @@
                                 Scala
                             </div>
                             <small>
-                                <div>283 bytes</div>
-                                <div>0.39%</div>
+                                <div>566 bytes</div>
+                                <div>0.4%</div>
                             </small>
                         </div>
                     </section>
@@ -62,8 +62,8 @@
                                 Shell
                             </div>
                             <small>
-                                <div>289 bytes</div>
-                                <div>0.4%</div>
+                                <div>578 bytes</div>
+                                <div>0.41%</div>
                             </small>
                         </div>
                     </section>

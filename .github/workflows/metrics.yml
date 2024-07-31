@@ -114,6 +114,15 @@ jobs:
           plugin_habits_facts: no
           plugin_habits_charts: yes
           config_timezone: Europe/Paris
+      - name: Pull requests In-depth
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.followup.indepth.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_followup: yes
+          plugin_followup_indepth: yes
+
 
 
 
